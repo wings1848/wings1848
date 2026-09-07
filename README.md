@@ -11,16 +11,16 @@ operation and maintenance.I will continuously study and
 further enhance my knowledge level.
 
 <p align="right">
-  <img src=".\images\ctj.gif" style="max-height: 100%; width: 20%; height: 20%;">
+  <img src="./images/ctj.gif" style="max-height: 100%; width: 20%; height: 20%;">
   <br >
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wings1848&show_icons=true&theme=prussian" style="height: 120px; max-width: 33%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wings1848&theme=prussian&layout=compact" style="height: 120px; max-width: 46%;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wings1848&theme=react-dark" style="width: 80%; height: 80%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wings1848&theme=github_dark" style="height: 120px; max-width: 46%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wings1848&theme=github_dark" style="height: 120px; max-width: 33%;">
+  <img src="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true" style="width: 80%; height: 80%;">
   <br >
 </p>
 

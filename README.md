@@ -47,6 +47,10 @@ first use, idle out when unused, and cache their metadata to disk.</p>
 ## 📊 Stats
 
 <p align="center">
+  <a href="https://tokens.ci/u/wings1848">
+    <img src="https://tokens.ci/api/embed/wings1848/svg?template=graph&tokens=compact&cost=compact" width="680" alt="Tokens Stats">
+  </a>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wings1848&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wings1848&theme=github_light">
@@ -61,12 +65,8 @@ first use, idle out when unused, and cache their metadata to disk.</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wings1848&theme=github-light&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true" width="495" alt="Streak">
+    <img src="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true" width="680" alt="Streak">
   </picture>
-  <br>
-  <a href="https://tokens.ci/u/wings1848">
-    <img src="https://tokens.ci/api/embed/wings1848/svg?template=graph&tokens=compact&cost=compact" width="680" alt="Tokens Stats">
-  </a>
 </p>
 
 📫 Blog: [blog.morphofly.xyz](https://blog.morphofly.xyz) · Always happy to hear suggestions, issues and PRs.

@@ -24,6 +24,12 @@ further enhance my knowledge level.
   <br >
 </p>
 
+<p align="center">
+  <a href="https://tokens.ci/u/wings1848">
+    <img src="https://tokens.ci/api/embed/wings1848/svg?template=graph&tokens=compact&cost=compact" alt="Tokens Stats">
+  </a>
+</p>
+
 ***I hope you can leave valuable suggestions in my project repository as I strive to enhance myself.***
 
 :+1: :star: :pray: :pray: :pray:

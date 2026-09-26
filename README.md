@@ -17,45 +17,29 @@ I build small tools that scratch real itches, mostly in **TypeScript**, **Python
 <table>
   <tr>
     <td width="50%">
-
-### 🔁 [restream](https://github.com/wings1848/restream)
-
-Low-resource live stream restreaming with **auto-reconnect** — pull from
-YouTube, push to Bilibili, with resolution scaling and Docker deployment.
-
-`Go` `MIT` `Docker`
-
+<h3>🔁 <a href="https://github.com/wings1848/restream">restream</a></h3>
+<p>Low-resource live stream restreaming with <b>auto-reconnect</b> — pull from
+YouTube, push to Bilibili, with resolution scaling and Docker deployment.</p>
+<p><code>Go</code> <code>MIT</code> <code>Docker</code></p>
     </td>
     <td width="50%">
-
-### ⚡ [dsh-rtk](https://github.com/wings1848/dsh-rtk)
-
-Rewrites your bash commands into their `rtk` equivalents and **compacts tool
-output before the model ever sees it** — fewer tokens in, same work out.
-
-`TypeScript` `MIT` `dsh-plugin`
-
+<h3>⚡ <a href="https://github.com/wings1848/dsh-rtk">dsh-rtk</a></h3>
+<p>Rewrites your bash commands into their <code>rtk</code> equivalents and <b>compacts
+tool output before the model ever sees it</b> — fewer tokens in, same work out.</p>
+<p><code>TypeScript</code> <code>MIT</code> <code>dsh-plugin</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-
-### 🧩 [dsh-mcp-lazy](https://github.com/wings1848/dsh-mcp-lazy)
-
-One stable proxy tool instead of **N MCP tool schemas**. Servers connect on
-first use, idle out when unused, and cache their metadata to disk.
-
-`TypeScript` `MIT` `MCP`
-
+<h3>🧩 <a href="https://github.com/wings1848/dsh-mcp-lazy">dsh-mcp-lazy</a></h3>
+<p>One stable proxy tool instead of <b>N MCP tool schemas</b>. Servers connect on
+first use, idle out when unused, and cache their metadata to disk.</p>
+<p><code>TypeScript</code> <code>MIT</code> <code>MCP</code></p>
     </td>
     <td width="50%">
-
-### 🛠️ more on my [profile](https://github.com/wings1848?tab=repositories)
-
-`dsh-im` · `waylyrics` · `bilibili-linux` · `vrc-osc-chat` · `pi-zh`
-
-Also: IM bots for DSH, desktop lyrics, Linux VTuber face tracking.
-
+<h3>🛠️ more on my <a href="https://github.com/wings1848?tab=repositories">profile</a></h3>
+<p><code>dsh-im</code> · <code>waylyrics</code> · <code>bilibili-linux</code> · <code>vrc-osc-chat</code> · <code>pi-zh</code></p>
+<p>Also: IM bots for DSH, desktop lyrics, Linux VTuber face tracking.</p>
     </td>
   </tr>
 </table>

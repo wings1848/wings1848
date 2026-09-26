@@ -2,13 +2,18 @@
 
 ***Ciallo～(∠・ω< )⌒☆***
 
-**I'm Wings Butterfly. I am a student and developer who is dedicated to studying   
-computer technology.**
+**I'm WingsButterfly(蝶䌻) · 🏳️‍⚧️ MTX**
 
+An indie dev on a long journey — self-taught, terminal-dwelling, Linux-native.
+I build small tools that scratch real itches, mostly in **TypeScript**, **Python**,
+**Go** and **Rust**, and I like shipping things people actually use daily.
 
-I have some knowledge of Python programming, Linux usage, and OpenStack   
-operation and maintenance.I will continuously study and   
-further enhance my knowledge level.
+- 🛠️ **DeepSeek Harness plugin author** — `dsh-im`, `dsh-mcp-lazy`, `dsh-rtk` and friends
+- 🐧 **Linux tinkerer** — porting apps, UMPC quirks, desktop lyrics, live-stream tooling
+- 🤖 **Agent & LLM tinkerer** — MCP gateways, IM bots, self-evolving agents
+- 🎮 **VRChat / VTuber** side quests — OSC chat, face tracking on Linux
+
+📫 Blog: [blog.morphofly.xyz](https://blog.morphofly.xyz) · Always happy to hear suggestions, issues and PRs.
 
 <p align="right">
   <img src="./images/ctj.gif" style="max-height: 100%; width: 20%; height: 20%;">

@@ -1,0 +1,8 @@
+
+# 本地截图与浏览器临时 profile
+.cshot/
+.chromium*/
+verify*.png
+mock*.png
+cmp-*.png
+compare-*.png

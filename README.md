@@ -65,7 +65,7 @@ first use, idle out when unused, and cache their metadata to disk.</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wings1848&theme=github-light&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true" width="680" alt="Streak">
+    <img src="https://streak-stats.demolab.com/?user=wings1848&theme=github-dark-blue&hide_border=true" width="495" alt="Streak">
   </picture>
 </p>
 
